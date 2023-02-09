@@ -1,4 +1,4 @@
 * [白银81-喜多川海梦-兔女郎](/1-白银81-喜多川海梦-兔女郎.md)
 * [橙子喵酱-Saber-33P](/2-橙子喵酱-Saber-33P.md)
 * [Nyako喵子-DOA](/3-Nyako喵子-DOA.md)
-* [Vinnegal - Himeno](/4-Vinnegal - Himeno.md)
+* [Vinnegal-Himeno](/4-Vinnegal-Himeno.md)
