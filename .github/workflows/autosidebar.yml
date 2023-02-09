@@ -21,7 +21,6 @@ jobs:
 
     - name: do autosidebar
       run: |
-       git update-index --chmod=+x build.cmd
        cd ./docs
        node ./auto.js
        ls
