@@ -2,3 +2,4 @@
 * [橙子喵酱-Saber-33P](/2-橙子喵酱-Saber-33P.md)
 * [Nyako喵子-DOA](/3-Nyako喵子-DOA.md)
 * [Vinnegal-Himeno](/4-Vinnegal-Himeno.md)
+* [Xidaidai(习呆呆)-草神](/5-Xidaidai(习呆呆)-草神.md)
